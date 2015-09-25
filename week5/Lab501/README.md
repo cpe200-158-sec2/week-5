@@ -4,5 +4,5 @@ In Lab401 and Lab402, you have implemented multiple shape related classes.
 In this lab, students have to extract UML class diagram from Lab401 and Lab402 
 then draw them on paper manually and submit to TA.
 
-![570610555](https://drive.google.com/open?id=0B4kGhLkflPoaSmJiUEVaR1VPODQ)
-![570610555](https://drive.google.com/open?id=0B4kGhLkflPoaajJJSVVLYzRCYzg)
+![570610555](https://drive.google.com/file/d/0B4kGhLkflPoaSmJiUEVaR1VPODQ/view?usp=sharing)
+![570610555](https://drive.google.com/file/d/0B4kGhLkflPoaajJJSVVLYzRCYzg/view?usp=sharing)
