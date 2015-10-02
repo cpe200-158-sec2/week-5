@@ -5,4 +5,5 @@ Try extracting the UML class diagram of each software design
 from their implementation and draw them on paper then submit to TA.
 
 [!570610607]
-blob:https%3A//drive.google.com/b25fdc20-2abc-48da-b17c-859cbd612e3a << Design 1
+https://drive.google.com/file/d/0B6xUYwqudr7xbXFqSXFwOGx6UW8/view << Design 1
+ 
