@@ -14,4 +14,4 @@ Suppose that you have to design a data model for university application. The dat
 
 Create a UML class diagram according to the requirement above. Draw the diagram on paper manually and submit to TA.
 
-![570610618](https://scontent.fbkk1-1.fna.fbcdn.net/hphotos-xtl1/v/t35.0-12/12059218_996737560369870_1931737262_o.jpg?oh=7f18e08ca883a560465bf41f90c44f51&oe=5610162C)
+![570610618](http://www.mx7.com/i/6e5/1HGZxX.jpg)
