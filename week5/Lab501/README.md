@@ -5,4 +5,4 @@ In this lab, students have to extract UML class diagram from Lab401 and Lab402
 then draw them on paper manually and submit to TA.
 
 
-![570610618](http://www.uppic.biz/images/2015/10/02/Lab501.jpg)
+![570610618](http://www.mx7.com/i/ec2/CLwLfF.jpg)
